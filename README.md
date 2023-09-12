@@ -2,13 +2,21 @@
 
 # 目次
 [1.はじめに](#はじめに)
+
 [2-1. 例１: Functionsにデータを処理してもらう](#例１-functionsにデータを処理してもらう)
+
 [2-2. 例2: Push通知を送る](#例2--push通知を送る)
+
 [2-3. 例3 : Firebaseを監視して動作する](#例3--firebaseを監視して動作する)
+
 [3.FunctionsをFlutterで使えるようにする](#functionsをflutterで使えるようにする)
+
 [4Functionsを動かす](#functionsを動かす)
+
 [5.Functionsを書くindex.jsを編集](#functionsを書くindexjsを編集)
+
 [6.FlutterでFunctionsを読んで動かす](#flutterでfunctionsを呼んで動かす)
+
 [7.まとめ](#まとめ)
 
 
