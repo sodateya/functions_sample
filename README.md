@@ -74,11 +74,11 @@ https://pub.dev/packages/cloud_functions
 Firebaseのプロジェクトを作成し、Flutterで動くようにセットアップします。
 今回はセットアップ方法は割愛させていただいます。
 
-:::note warn
-Firebaseのプランを従量制に変更しないとFunctionsを使用できませんのでここで変更しておいてください！！
-:::
 
-
+```
+ [!WARNING]
+ Firebaseのプランを従量制に変更しないとFunctionsを使用できませんのでここで変更しておいてください！！
+```
 https://zenn.dev/kazutxt/books/flutter_practice_introduction/viewer/29_chapter4_overview
 
 こちらがとてもわかりやすいので参考までに!
@@ -131,7 +131,7 @@ Dartでかけたらいいんですけどね、、、
 * サンプル
 ![20230912_163831.GIF](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3075676/25fa2b33-75c9-c52f-bbba-a1270351d3ed.gif)
 
-## Functionsを書く　~index.jsを編集~
+## Functionsを書く　index.jsを編集
 
 * index.jsを編集
 Javascriptで書いていきます。
